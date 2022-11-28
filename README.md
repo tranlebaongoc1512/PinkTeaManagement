@@ -1,6 +1,6 @@
 # Welcome to Pink Tea Store
 ## You will find in this repo the following stuff:
-* A project using jsp/servlets for the customer to order milk tea and the admin to manage milk tea information
+* A project using jsp/servlet for the customer to order milk tea and the admin to manage milk tea information
 * A SQL query file includes data for the project.
 * ...
 
